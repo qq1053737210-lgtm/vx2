@@ -462,6 +462,5 @@ end)
         task.wait(CFG.poll)
         scanAll()
     end
-end)
 
 print("✅ 一键脚本已启动：Hub → 汉化，全部自动完成")
